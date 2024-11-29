@@ -1,7 +1,7 @@
-Overview
+Overview :
 This project is a clone of the job portal Indeed, built using modern technologies to replicate key functionalities such as job searching, application management, and user authentication.
 
-Features
+Features : 
 User Authentication: Registration, login, and session management.
 Job Listings: View and search job postings.
 Job Applications: Apply to jobs and view application history.
