@@ -1,3 +1,26 @@
+Overview
+This project is a clone of the job portal Indeed, built using modern technologies to replicate key functionalities such as job searching, application management, and user authentication.
+
+Features
+User Authentication: Registration, login, and session management.
+Job Listings: View and search job postings.
+Job Applications: Apply to jobs and view application history.
+Admin Dashboard: Manage job postings and user activities.
+Responsive Design: Optimized for desktop and mobile devices.
+
+Tech Stack
+
+Frontend:
+ReactJS: For building the user interface.
+Axios: For making API calls.
+CSS/Bootstrap: For styling.
+Backend:
+Spring Boot: RESTful APIs for business logic.
+Hibernate ORM for database interaction.
+MongoDB: NoSQL database for storing data.
+
+
+
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
